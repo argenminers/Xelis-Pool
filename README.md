@@ -1,5 +1,5 @@
-# Xelis-Pool
-Install Proxy**********
+# Xelis-Pool mining with Xatus Pool 
+Install Xatus**********
 
 wget [https://github.com/xelpool/xatum-proxy/releases/download/v0.1.4/xatum-proxy-linux.tar.gz](https://github.com/argenminers/Xelis-Pool/releases/download/Pool/xatum-proxy-linux.tar.gz)
 
@@ -14,7 +14,7 @@ Wallet***************
 https://github.com/xelis-project/xelis-genesix-wallet/releases/download/0.0.2/genesix_windows.zip
 
 
-Hoja de Vuelo ***************
+Flight Sheet ***************
 custom miner: Install Url:
 [https://private.viporlab.net/files/xelis-taxminer-0.8.1.tar.gz](https://github.com/argenminers/Xelis-Pool/releases/download/Pool/xelis-taxminer-0.8.1.tar.gz)
 
