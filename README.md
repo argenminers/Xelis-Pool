@@ -19,7 +19,7 @@ custom miner: Install Url:
 [https://private.viporlab.net/files/xelis-taxminer-0.8.1.tar.gz](https://github.com/argenminers/Xelis-Pool/releases/download/Pool/xelis-taxminer-0.8.1.tar.gz)
 
 pool:
-ws://192.168.0.144:8080
+ws://127.0.0.1:5210
 
 User Config: 
 
