@@ -1,9 +1,9 @@
 # Xelis-Pool mining with Xatus Pool 
 Install Xatus**********
 
-wget [https://github.com/xelpool/xatum-proxy/releases/download/v0.1.4/xatum-proxy-linux.tar.gz](https://github.com/argenminers/Xelis-Pool/releases/download/Pool/xatum-proxy-linux.tar.gz)
+wget https://github.com/argenminers/Xelis-Pool/releases/download/Pool/xatum-proxy-linux.tar
 
-tar -xvf xatum-proxy-linux.tar.gz
+tar -xvf xatum-proxy-linux.tar
 
 screen -S xatum-proxy ./xatum-proxy
 
