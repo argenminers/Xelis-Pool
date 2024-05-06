@@ -24,5 +24,3 @@ ws://127.0.0.1:5210
 User Config: 
 
 --host 127.0.0.1:5210 --wallet xel:rfwumc6kr6fw3njxvatge2mvwxczr3jm5y8jdp86uaa7p6lkxyxqqk0mlpt --worker Xelis-Rig1
-
-Contacto en telegram: https://t.me/argenminerok ⭐
